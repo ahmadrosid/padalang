@@ -44,22 +44,6 @@ untuak i dari 1 sampai 5
 | or       | `atau`   |
 | not      | `indak`  |
 
-## Build
-
-```bash
-gcc -std=c11 -Wall -Wextra -pedantic -o padalang \
-    src/token.c src/lexer.c src/ast.c src/parser.c \
-    src/value.c src/env.c src/eval.c src/repl.c src/main.c
-./padalang examples/hello.pad
-```
-
-This runs the program and prints its output.
-
-Print tokens (for debugging):
-
-```bash
-./padalang --tokens examples/hello.pad
-```
 
 ## REPL
 
