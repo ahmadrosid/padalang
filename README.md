@@ -76,27 +76,3 @@ Parse and print the AST:
 ```bash
 ./padalang --parse examples/hello.pad
 ```
-
-Run the lexer smoke test:
-
-```bash
-bash tests/test_lexer.sh
-```
-
-Run the parser smoke test:
-
-```bash
-bash tests/test_parser.sh
-```
-
-Run the REPL smoke test:
-
-```bash
-bash tests/test_repl.sh
-```
-
-Run a program:
-
-```bash
-bash tests/test_run.sh
-```
