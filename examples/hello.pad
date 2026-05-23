@@ -1,0 +1,21 @@
+# Halo urang!
+caliak "Halo, Urang!"
+
+simpan namo = "Ahmad"
+simpan umua = 25
+
+bilo umua >= 17 baru
+    caliak namo + " — urang dewasa"
+indak
+    caliak namo + " — umua masiak kanak-kanak"
+
+fungsi hitung(n)
+    bilo n > 10 baru
+        bulian "banyak"
+    indak
+        bulian "saketek"
+
+caliak hitung(15)
+
+untuak i dari 1 sampai 5
+    caliak i
