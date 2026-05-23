@@ -1,6 +1,6 @@
 # Padalang
 
-Padalang is a programming language that uses **Minang Kabau** for its syntax. Programs should read naturally to Minang speakers — like describing logic in everyday language.
+Padalang is a programming language that uses **Minang Kabau/Bahasa Padang** for its syntax. Programs should read naturally to Minang speakers — like describing logic in everyday language.
 
 ## Example
 
