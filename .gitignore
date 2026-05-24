@@ -1,3 +1,4 @@
 padalang
+*.o
 tests/
 padalang.dSYM/
